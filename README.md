@@ -13,5 +13,5 @@ Python dosyasını indirip ssh ile ssh.itu.edu.tr adresindeki sunucuya at.
 Tıpkı calico gibi ilgili dosyaların aynı klasörde olması gerekli.
 ![Aynı Klasör](https://github.com/xdebron/simple-calico/raw/master/1.png)
 
-python itucalico.py assignment1.t
+python itucalico.py assignment2_1.t
 ![Örnek](https://github.com/xdebron/simple-calico/raw/master/2.png)
