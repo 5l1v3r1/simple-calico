@@ -6,7 +6,7 @@ Linux fetişistlerine boyun eğmek istemiyor musunuz..?
 
 # Kurulum
 
-Python dosyasını indirip ssh ile ssh.itu.edu.tr adresindeki sunucuya at.
+"itucalico.py" isimli Python dosyasını indirip ssh ile ssh.itu.edu.tr adresindeki sunucuya at.
 
 # Kullanım
 
